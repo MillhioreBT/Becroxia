@@ -34,3 +34,8 @@ However if you have `ticket`, `scroll` and `stamina recover` you can take advant
 Don't use the bot in non-allowed areas, otherwise the bot will start casting spells like crazy. due to customer 10 restrictions in these areas.
 Try to have a good internet connection, the BOT will help you level up, it doesn't work miracles.
 Do not tell anyone about the BOT and do not tell anyone that you use it. (Unless it's someone trustworthy)
+
+# Video of the BOT in operation
+Click to the image:
+
+[![Video of the BOT in operation](https://img.youtube.com/vi/0fohDAnYRBo/0.jpg)](https://youtu.be/0fohDAnYRBo)
