@@ -1,5 +1,5 @@
 # Becroxia
-BOT for Necroxia Origin client 10
+### BOT for Necroxia Origin client 10
 
 You can visit this server [HERE](https://www.necroxia.com/home)
 
