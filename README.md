@@ -39,3 +39,5 @@ Do not tell anyone about the BOT and do not tell anyone that you use it. (Unless
 Click to the image:
 
 [![Video of the BOT in operation](https://img.youtube.com/vi/0fohDAnYRBo/0.jpg)](https://youtu.be/0fohDAnYRBo)
+
+Notes: for client 12 there will only be self-healing and maybe cavebot with waypoints.
